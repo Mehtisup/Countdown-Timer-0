@@ -1,0 +1,21 @@
+<style>
+* {
+    box-sizing:border-box;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+    padding:20px
+}
+.timer {
+    max-width: 600px;
+    width:100%;
+    margin: auto;
+    border: 1px solid #888;
+    background-color: whitesmoke;
+    box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 13px;
+    border-radius: 3px;
+}
+</style>
